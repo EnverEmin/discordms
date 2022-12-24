@@ -1,4 +1,4 @@
-import discordms
+import discordms.py
 from discord.ext import commands
 
 # Discord botunuzun tokenini ve prefixini buraya girin
